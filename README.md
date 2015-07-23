@@ -2,6 +2,8 @@
 
 This is a very basic setup of a Sinatra app, that already has a model example.
 
+It sucks!
+
 ## Getting Started
 
 To get started run the following commands:
